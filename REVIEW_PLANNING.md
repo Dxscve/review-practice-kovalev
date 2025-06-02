@@ -57,8 +57,8 @@
 
  ЗАДАЧА 3: Кросс-ревью
 
-Ссылка на комментарии:  
-
+Ссылка одногруппника:  
+https://github.com/1ucach/review-practice-av_tolstopyatenko/blob/main/REVIEW_PLANNING.md
 
 Критерии оценки:
 - Полнота чек-листа
