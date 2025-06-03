@@ -8,3 +8,5 @@
   - `.gitgnore` - игнорирование чужих файлов
   - `report.md` - отчет по анализу чужого репозитория
   - `REVIEW_PLANNING.md` - ревьюирование программных модулей
+  - `data/measurements.xlsx` - Данные измерений
+  - `report_tech/technical_report.md` - Технический отчет
