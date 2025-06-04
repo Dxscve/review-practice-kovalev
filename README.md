@@ -13,6 +13,8 @@
   - `T4/presentation/comparison_presentation.pptx` - презентация
   - `T5/report_questions.doc` - отчет по ответам
   - `T6/report_test.doc` - отчет по тесту
+  - `T7/report_test.doc` - отчет задания
+  - `T7/test3.py` - исправленная версия кода
 
 
 ## Этапы выполнения
