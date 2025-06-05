@@ -23,8 +23,8 @@
       - `T10/test6.py` - код №6 к заданию 10  
       - `T10/test7.py` - код №7 к заданию 10
   - `T11/report_test11.doc`- отчет задания
-        - `T11/test_codeMistake.py` - код с ошибками
-        - `T11/test_codeUpdate.py` - исправленный код
+      - `T11/test_codeMistake.py` - код с ошибками
+      - `T11/test_codeUpdate.py` - исправленный код
 
 
 ## Этапы выполнения
